@@ -1,0 +1,19 @@
+# Android Studio project files
+*.iml
+.gradle/
+build/
+local.properties
+app/*.hprof
+app/*.log
+
+# Gradle files
+.gradle/
+build/
+
+# Miscellaneous
+.DS_Store
+.idea/
+*.swp
+*.swo
+*~
+*.lock
