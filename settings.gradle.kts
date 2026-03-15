@@ -1,0 +1,1 @@
+plugins {\n    id("org.jetbrains.kotlin.jvm") version "1.5.31" apply false\n}\n\ndependencyResolutionManagement {\n    repositories {\n        mavenCentral()\n        google()\n    }\n}
