@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="keyboard_height">300dp</dimen>
+    <dimen name="keyboard_width">match_parent</dimen>
+    <dimen name="key_width">10%p</dimen>
+    <dimen name="key_height">60dp</dimen>
+    <dimen name="key_text_size">16sp</dimen>
+</resources>
